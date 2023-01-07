@@ -1,9 +1,9 @@
 # Machine Learning Resources
 
-## Deep Learning - Ian Goodfellow Yoshua Bengio and Aaron Courville [In Progress]
+## Deep Learning - Ian Goodfellow Yoshua Bengio and Aaron Courville
 https://www.deeplearningbook.org/
 
-## Pattern Recognition and Machine Learning - Christopher M. Bishop [In Progress]
+## Pattern Recognition and Machine Learning - Christopher M. Bishop
 https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/
 
 ## Mathematics for Machine Learning - Marc Peter Deisenroth A. Aldo Faisal and Cheng Soon Ong
