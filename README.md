@@ -19,5 +19,4 @@ https://www.tensorflow.org/tutorials/quickstart/beginner
 https://keras.io/getting_started/
 
 ## Computer Vision A Moden Approach
-COMPUTER VISION
-A MODERN APPROACH
+https://eclass.teicrete.gr/modules/document/file.php/TM152/Books/Computer%20Vision%20-%20A%20Modern%20Approach%20-%20D.%20Forsyth,%20J.%20Ponce.pdf
