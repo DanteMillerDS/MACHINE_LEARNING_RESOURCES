@@ -8,3 +8,6 @@ https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine
 
 ## Mathematics for Machine Learning
 https://mml-book.github.io/book/mml-book.pdf
+
+## Tensorflow Website Resource
+https://www.tensorflow.org/tutorials/quickstart/beginner
