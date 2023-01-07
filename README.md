@@ -13,7 +13,7 @@ https://mml-book.github.io/book/mml-book.pdf
 https://www.tensorflow.org/tutorials/quickstart/beginner
 
 ## PyTorch Website Resource
-https://pytorch.org/tutorials/
+[https://pytorch.org/tutorials/](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html)
 
 ## Keras Website Resource
 https://keras.io/getting_started/
