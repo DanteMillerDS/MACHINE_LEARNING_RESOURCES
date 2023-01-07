@@ -17,3 +17,7 @@ https://www.tensorflow.org/tutorials/quickstart/beginner
 
 ## Keras Website Resource
 https://keras.io/getting_started/
+
+## Computer Vision A Moden Approach
+COMPUTER VISION
+A MODERN APPROACH
