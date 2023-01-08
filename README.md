@@ -18,3 +18,8 @@ https://www.tensorflow.org/tutorials/quickstart/beginner
 ## Keras Website Resource
 https://keras.io/getting_started/
 
+## References For Computer Vision
+Chapter 4
+https://isip.piconepress.com/courses/temple/ece_4822/resources/books/Deep-Learning-with-PyTorch.pdf
+
+
