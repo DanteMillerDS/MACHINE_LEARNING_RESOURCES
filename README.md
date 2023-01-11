@@ -24,4 +24,7 @@ https://isip.piconepress.com/courses/temple/ece_4822/resources/books/Deep-Learni
 ## Biomedical Informatics
 https://drive.uqu.edu.sa/_/maatia/files/Biomedical%20Informatics.pdf
 
+## Computer Vision - A Modern Approach
+https://eclass.teicrete.gr/modules/document/file.php/TM152/Books/Computer%20Vision%20-%20A%20Modern%20Approach%20-%20D.%20Forsyth,%20J.%20Ponce.pdf
+
 
